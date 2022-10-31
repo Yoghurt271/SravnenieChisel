@@ -1,0 +1,14 @@
+C:\Users\misha\source\repos\Sravnenie\Sravnenie\bin\Debug\netcoreapp3.1\Sravnenie.exe
+C:\Users\misha\source\repos\Sravnenie\Sravnenie\bin\Debug\netcoreapp3.1\Sravnenie.deps.json
+C:\Users\misha\source\repos\Sravnenie\Sravnenie\bin\Debug\netcoreapp3.1\Sravnenie.runtimeconfig.json
+C:\Users\misha\source\repos\Sravnenie\Sravnenie\bin\Debug\netcoreapp3.1\Sravnenie.runtimeconfig.dev.json
+C:\Users\misha\source\repos\Sravnenie\Sravnenie\bin\Debug\netcoreapp3.1\Sravnenie.dll
+C:\Users\misha\source\repos\Sravnenie\Sravnenie\bin\Debug\netcoreapp3.1\Sravnenie.pdb
+C:\Users\misha\source\repos\Sravnenie\Sravnenie\obj\Debug\netcoreapp3.1\Sravnenie.csproj.AssemblyReference.cache
+C:\Users\misha\source\repos\Sravnenie\Sravnenie\obj\Debug\netcoreapp3.1\Sravnenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\source\repos\Sravnenie\Sravnenie\obj\Debug\netcoreapp3.1\Sravnenie.AssemblyInfoInputs.cache
+C:\Users\misha\source\repos\Sravnenie\Sravnenie\obj\Debug\netcoreapp3.1\Sravnenie.AssemblyInfo.cs
+C:\Users\misha\source\repos\Sravnenie\Sravnenie\obj\Debug\netcoreapp3.1\Sravnenie.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\Sravnenie\Sravnenie\obj\Debug\netcoreapp3.1\Sravnenie.dll
+C:\Users\misha\source\repos\Sravnenie\Sravnenie\obj\Debug\netcoreapp3.1\Sravnenie.pdb
+C:\Users\misha\source\repos\Sravnenie\Sravnenie\obj\Debug\netcoreapp3.1\Sravnenie.genruntimeconfig.cache
